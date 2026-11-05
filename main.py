@@ -20,7 +20,7 @@ from telebot.types import Message, ReplyKeyboardMarkup, KeyboardButton
 # YAHAN APNA NAYA TOKEN DAALO (Space nahi hona chahiye)
 BOT_TOKEN = "9264885271:AAGUIjI3kLzCRbHDUH7v3wLq-Eflhvu2Ovg"  # <-- Naya token yahan paste karo
 
-API_URL = "https://flex-giftyou-num-info-api.vercel.app/api/lookup?number={USER_NUMBER}"
+API_URL = "https://sovitx-info.vercel.app/api/num-info?key=Sx_Demo&number=9876543210"
 
 # ===================================================
 # LOGGING SETUP
